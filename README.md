@@ -1,3 +1,3 @@
-# Scripts-Simple-
+# Scripts
 
 //Random scripts calling Windows programs/functions
